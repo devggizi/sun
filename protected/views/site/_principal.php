@@ -10,7 +10,7 @@ if(Yii::app()->session['activo']) {
 
 }
 ?>
-<br>
+<br><div></div>
 <div class="banner" id="templatemo_banner_slide">
     <ul>
         <li class="templatemo_banner_slide_01">
